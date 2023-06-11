@@ -7,11 +7,10 @@ div {
 }
 
 p {
-    background-color: palevioletred;
     color: white;
     font-size: 18px;
 }
 button {
-    background-color: paleturquoise;
+    background-color: palevioletred;
     font-size: 18px;
 }
