@@ -1,7 +1,17 @@
 div {
-    background-color: red;
+    background-color: paleturquoise;
     color: white;
     font-size: 32px;
     text-align: center;
     font-weight: bold;
+}
+
+p {
+    background-color: palevioletred;
+    color: white;
+    font-size: 18px;
+}
+button {
+    background-color: paleturquoise;
+    font-size: 18px;
 }
