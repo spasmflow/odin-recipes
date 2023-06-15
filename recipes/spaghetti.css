@@ -1,0 +1,44 @@
+* {
+    background-color: #ff7477;
+}
+
+h4 {
+    display: flex;
+    margin: 12px;
+    padding: 20px;
+    border: 2px solid black;
+    flex: 1;
+    justify-content:space-around;
+    align-items: flex-start;
+    background-color: peachpuff;
+    border-radius: 10px;
+    width: 500px;
+    height: 120px;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.description {
+    display: flex;
+    background-color: peachpuff;
+    justify-content: space-around;
+}
+
+img {
+    margin: 12px;
+    border-radius: 10px;
+    border: 2px solid black;
+}
+
+ul {
+    color: peachpuff;
+}
+
+h1 {
+    font-family:'Courier New', Courier, monospace;
+
+}
+
+p {
+    display: flex;
+    
+}
