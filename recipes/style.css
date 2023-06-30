@@ -1,0 +1,62 @@
+div {
+    background-color: paleturquoise;
+    color: black;
+    font-size: 32px;
+    text-align: center;
+    font-weight: bold;
+    display: flex;
+    justify-content: center;
+}
+
+
+
+.food.spaghetti {
+    background-color: #ff7477;
+}
+
+.food.lasagna {
+    background-color: #e69597;
+   
+}
+
+.food.potatoes {
+    background-color: #ffc0cb;
+   
+}
+
+.spaghetti, .potatoes, .lasagna {
+     color: white;
+    font-size: 28px;
+    font-family:'Courier New', Courier, monospace;
+}
+
+.parent .child {
+    font-size: 20px;
+    text-align: center;
+}
+
+#separate {
+    color: red;
+    text-align: left;
+}
+
+.food {
+    width: 350px;
+    height: 110px;
+    margin: 20px;
+    padding: 20px;
+    border: 5px solid black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+
+.flex-container {
+    display: flex;
+    background: white;
+    justify-content: center;
+    flex-wrap: wrap;
+    flex: 1;
+    
+}

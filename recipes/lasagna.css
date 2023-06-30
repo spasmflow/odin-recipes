@@ -19,7 +19,7 @@ h1{
     flex-wrap: wrap;
     flex: 1, 1, 0;
     justify-content: center;
-    background-color: #ff7477;
+    background-color: #e69597;
     justify-content: space-around;
     margin-right: 55%;
     padding: 10px;
@@ -29,13 +29,13 @@ h1{
 }
 
 h3 {
-    background-color: #ff7477;
+    background-color: #e69597;
     font-family:'Courier New', Courier, monospace;
 }
 
 .description {
     display: flex;
-    background-color: #ff7477;
+    background-color: #e69597;
     
 }
 
@@ -57,12 +57,25 @@ ul {
 
 ol {
     font-family:'Courier New', Courier, monospace;
-    width: 500px ;
+    width: 500px;
 }
 
+.stepping {
+    display: flex;
+    
+}
 
+.steps {
+    width: 530px;
+    border-radius: 10px;
+    font-weight: lighter;
+}
 
 .ingredients {
     width: 500px;
     border-radius: 10px;
+}
+
+p {
+    background-color: #e69597;
 }

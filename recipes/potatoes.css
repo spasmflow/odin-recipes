@@ -19,7 +19,7 @@ h1{
     flex-wrap: wrap;
     flex: 1, 1, 0;
     justify-content: center;
-    background-color: #ff7477;
+    background-color: #ffc0cb;
     justify-content: space-around;
     margin-right: 55%;
     padding: 10px;
@@ -27,15 +27,18 @@ h1{
     border-radius: 10px;
     font-family:'Courier New', Courier, monospace;
 }
+h4 {
+    background-color: #ffc0cb;
+}
 
 h3 {
-    background-color: #ff7477;
+    background-color: #ffc0cb;
     font-family:'Courier New', Courier, monospace;
 }
 
 .description {
     display: flex;
-    background-color: #ff7477;
+    background-color: #ffc0cb;
     
 }
 
@@ -57,10 +60,14 @@ ul {
 
 ol {
     font-family:'Courier New', Courier, monospace;
-    width: 500px ;
+    width: 500px;
 }
 
-
+.steps {
+    width: 530px;
+    border-radius: 10px;
+    font-weight: lighter;
+}
 
 .ingredients {
     width: 500px;
